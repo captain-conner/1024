@@ -1,0 +1,472 @@
+1483875658232	geckodriver	INFO	Listening on 127.0.0.1:38116
+1483875659236	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.aI3lX116HOni
+1483875659240	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483875659247	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46268
+1483875660284	Marionette	INFO	Listening on port 46268
+JavaScript error: , line 0: uncaught exception: undefined
+1483875737882	geckodriver	INFO	Listening on 127.0.0.1:51996
+1483875738884	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.po7fK4vp1QpQ
+1483875738886	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483875738891	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35809
+1483875739827	Marionette	INFO	Listening on port 35809
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+1483875946898	geckodriver	INFO	Listening on 127.0.0.1:42969
+1483875947900	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HWgO65w8yPrT
+1483875947901	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483875947903	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33005
+1483875948909	Marionette	INFO	Listening on port 33005
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+1483876256121	geckodriver	INFO	Listening on 127.0.0.1:46616
+1483876257123	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.sHNNhKt9UqSW
+1483876257124	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483876257126	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39355
+1483876258151	Marionette	INFO	Listening on port 39355
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+1483876335930	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 22346] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 22346] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+1483876428263	geckodriver	INFO	Listening on 127.0.0.1:39314
+1483876429264	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.RAGIldf8bMPX
+1483876429265	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483876429268	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36658
+1483876430313	Marionette	INFO	Listening on port 36658
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+1483877148027	geckodriver	INFO	Listening on 127.0.0.1:46231
+1483877149029	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.RZpW4OOomToS
+1483877149031	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483877149038	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33146
+1483877149957	Marionette	INFO	Listening on port 33146
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+1483877227954	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1483877467442	geckodriver	INFO	Listening on 127.0.0.1:33966
+1483877468446	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.48DevlSIRYjZ
+1483877468448	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483877468455	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34984
+1483877469585	Marionette	INFO	Listening on port 34984
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+1483877611426	geckodriver	INFO	Listening on 127.0.0.1:35530
+1483877612429	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Zlk1hKpbK4BN
+1483877612431	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483877612437	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34136
+1483877613448	Marionette	INFO	Listening on port 34136
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+1483877652744	geckodriver	INFO	Listening on 127.0.0.1:37670
+1483877653745	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.InFmstRjBIiR
+1483877653746	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483877653749	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46600
+1483877654663	Marionette	INFO	Listening on port 46600
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+1483877732298	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1483877774797	geckodriver	INFO	Listening on 127.0.0.1:37148
+1483877775798	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Qhre9Iyoi55e
+1483877775799	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483877775802	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45964
+1483877776808	Marionette	INFO	Listening on port 45964
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+1483883840941	geckodriver	INFO	Listening on 127.0.0.1:52791
+1483883841933	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HG6VklW82RVP
+1483883841934	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483883841937	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33398
+1483883843463	Marionette	INFO	Listening on port 33398
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+JavaScript error: chrome://marionette/content/listener.js, line 999: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+1483883967848	geckodriver	INFO	Listening on 127.0.0.1:46923
+1483883968849	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.lyOVMblNtRF5
+1483883968850	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483883968853	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33508
+1483883970279	Marionette	INFO	Listening on port 33508
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+1483884034265	geckodriver	INFO	Listening on 127.0.0.1:49309
+1483884035266	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Pmd6lV80rsH9
+1483884035267	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483884035270	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40547
+1483884036678	Marionette	INFO	Listening on port 40547
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+1483884100954	geckodriver	INFO	Listening on 127.0.0.1:36820
+1483884101955	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.s77Y1NmbOV5N
+1483884101955	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483884101958	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33800
+1483884103136	Marionette	INFO	Listening on port 33800
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+1483884138965	geckodriver	INFO	Listening on 127.0.0.1:34054
+1483884139966	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.YXjDBNRY1qSV
+1483884139967	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483884139970	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35367
+1483884141130	Marionette	INFO	Listening on port 35367
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: http://dz.x8h.biz/thread0806.php?fid=21&search=&page=2, line 1: ReferenceError: mouseover_open is not defined
+JavaScript error: http://dz.x8h.biz/thread0806.php?fid=21, line 1: ReferenceError: mouseover_open is not defined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: http://dz.x8h.biz/thread0806.php?fid=21, line 1: ReferenceError: mouseover_open is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: http://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+JavaScript error: http://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1483885915606	geckodriver	INFO	Listening on 127.0.0.1:54397
+1483885916609	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Ptx9kY5eBhro
+1483885916612	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483885916615	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45435
+1483885917595	Marionette	INFO	Listening on port 45435
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+JavaScript error: http://dz.x8h.biz/profile.php?action=show&uid=389030, line 1: ReferenceError: mouseover_open is not defined
+1483886313977	geckodriver	INFO	Listening on 127.0.0.1:37355
+1483886314978	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.szuBqB5ODn6c
+1483886314979	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483886314981	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33726
+1483886316218	Marionette	INFO	Listening on port 33726
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+JavaScript error: http://dz.x8h.biz/profile.php?action=show&uid=270557, line 1: ReferenceError: mouseover_open is not defined
+JavaScript error: http://dz.x8h.biz/thread0806.php?fid=21&search=&page=2, line 1: ReferenceError: mouseover_open is not defined
+JavaScript error: http://dz.x8h.biz/thread0806.php?fid=21&search=&page=2, line 1: ReferenceError: mouseover_open is not defined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+JavaScript error: http://dz.x8h.biz/thread0806.php?fid=21&search=&page=2, line 1: ReferenceError: mouseover_open is not defined
+1483887184228	geckodriver	INFO	Listening on 127.0.0.1:48772
+1483887185229	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.yPYRGnSUcqW4
+1483887185230	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483887185233	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40611
+1483887186584	Marionette	INFO	Listening on port 40611
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1483887978956	geckodriver	INFO	Listening on 127.0.0.1:47954
+1483887979955	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.mmgbbZyvYuK5
+1483887979956	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483887979959	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44473
+1483887981006	Marionette	INFO	Listening on port 44473
+JavaScript error: , line 0: uncaught exception: undefined
+1483888050002	geckodriver	INFO	Listening on 127.0.0.1:60107
+1483888051004	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.IuQHhIy46sq6
+1483888051006	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483888051009	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39706
+1483888052127	Marionette	INFO	Listening on port 39706
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+JavaScript error: http://dz.x8h.biz/thread0806.php?fid=21&search=&page=1, line 1: ReferenceError: mouseover_open is not defined
+1483888214281	geckodriver	INFO	Listening on 127.0.0.1:60782
+1483888215278	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.mhjurAGRsVKO
+1483888215279	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483888215282	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35357
+1483888216282	Marionette	INFO	Listening on port 35357
+JavaScript error: , line 0: uncaught exception: undefined
+1483888858676	geckodriver	INFO	Listening on 127.0.0.1:39749
+1483888859677	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.O4CDFAkv9vHX
+1483888859678	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483888859681	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45748
+1483888860689	Marionette	INFO	Listening on port 45748
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+1483888982403	geckodriver	INFO	Listening on 127.0.0.1:52712
+1483888983403	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xysAmStqis0Z
+1483888983404	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483888983407	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43103
+1483888984489	Marionette	INFO	Listening on port 43103
+JavaScript error: , line 0: uncaught exception: undefined
+[Child 9574] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 9574] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+1483889000256	geckodriver	INFO	Listening on 127.0.0.1:50935
+1483889001259	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ERQKRbPr80Wq
+1483889001261	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483889001266	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45262
+1483889002297	Marionette	INFO	Listening on port 45262
+JavaScript error: , line 0: uncaught exception: undefined
+1483889429702	geckodriver	INFO	Listening on 127.0.0.1:39020
+1483889430704	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.WBBZn12UQH3i
+1483889430705	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483889430710	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43084
+1483889431829	Marionette	INFO	Listening on port 43084
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+[Child 10229] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 10229] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+1483889490744	geckodriver	INFO	Listening on 127.0.0.1:58216
+1483889491744	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Tq0FDvqIcjWj
+1483889491745	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483889491748	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40647
+1483889492923	Marionette	INFO	Listening on port 40647
+JavaScript error: , line 0: uncaught exception: undefined
+1483889501317	geckodriver	INFO	Listening on 127.0.0.1:34239
+1483889502315	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xnYguPJd7kLv
+1483889502316	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483889502319	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34917
+1483889503468	Marionette	INFO	Listening on port 34917
+JavaScript error: , line 0: uncaught exception: undefined
+1483889511641	geckodriver	INFO	Listening on 127.0.0.1:37921
+1483889512639	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.RMfZQY1uKPPw
+1483889512640	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483889512642	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41902
+1483889513665	Marionette	INFO	Listening on port 41902
+JavaScript error: , line 0: uncaught exception: undefined
+1483889521078	geckodriver	INFO	Listening on 127.0.0.1:40817
+1483889522074	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2H7OjWv2JWdP
+1483889522074	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483889522077	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45976
+1483889523248	Marionette	INFO	Listening on port 45976
+JavaScript error: , line 0: uncaught exception: undefined
+[Child 10499] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 10499] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 10390] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 10390] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 10625] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 10625] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 10737] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 10737] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+1483889542698	geckodriver	INFO	Listening on 127.0.0.1:58027
+1483889543700	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.CxH6LAPhMb2W
+1483889543701	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483889543704	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34435
+1483889544776	Marionette	INFO	Listening on port 34435
+JavaScript error: , line 0: uncaught exception: undefined
+1483889551862	geckodriver	INFO	Listening on 127.0.0.1:54503
+1483889552861	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.QPayifM3ROvB
+1483889552864	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483889552867	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43660
+1483889554039	Marionette	INFO	Listening on port 43660
+JavaScript error: , line 0: uncaught exception: undefined
+1483889562474	geckodriver	INFO	Listening on 127.0.0.1:59718
+1483889563473	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.PcCOIo0WKMrC
+1483889563475	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483889563478	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35675
+1483889564496	Marionette	INFO	Listening on port 35675
+JavaScript error: , line 0: uncaught exception: undefined
+1483889571959	geckodriver	INFO	Listening on 127.0.0.1:58282
+1483889572957	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.SvjQivfmhug5
+1483889572958	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483889572961	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46830
+1483889573988	Marionette	INFO	Listening on port 46830
+JavaScript error: , line 0: uncaught exception: undefined
+[Child 10970] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 10970] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 11074] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 11074] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 11185] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 11185] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 10858] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 10858] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1483889743345	geckodriver	INFO	Listening on 127.0.0.1:35415
+1483889744346	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.blsFHTn7iBP1
+1483889744347	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483889744350	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40646
+1483889745388	Marionette	INFO	Listening on port 40646
+JavaScript error: , line 0: uncaught exception: undefined
+1483890159943	geckodriver	INFO	Listening on 127.0.0.1:52335
+1483890160944	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.BSaO65Vsp6QL
+1483890160945	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483890160948	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43120
+1483890161975	Marionette	INFO	Listening on port 43120
+JavaScript error: , line 0: uncaught exception: undefined
+1483890194613	geckodriver	INFO	Listening on 127.0.0.1:54835
+1483890195615	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.oRxQ7lHsHMfW
+1483890195616	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483890195619	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44727
+1483890196598	Marionette	INFO	Listening on port 44727
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 12019] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 12019] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1483890386293	geckodriver	INFO	Listening on 127.0.0.1:43013
+1483890387295	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.1nIfjDIfFXZz
+1483890387296	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483890387298	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38465
+1483890388526	Marionette	INFO	Listening on port 38465
+JavaScript error: , line 0: uncaught exception: undefined
+[Child 12270] WARNING: pipe error (3): Connection reset by peer: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x500001,name=PCrashReporter::Msg_AnnotateCrashReport) Channel error: cannot send/recv
+
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=4.31413) 
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00E9,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1483890410920	geckodriver	INFO	Listening on 127.0.0.1:45434
+1483890411921	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.9ttZJIkgEQkP
+1483890411922	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483890411924	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38259
+1483890413267	Marionette	INFO	Listening on port 38259
+JavaScript error: , line 0: uncaught exception: undefined
+[Child 12399] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+[Child 12399] ###!!! ABORT: Aborting on channel error.: file /tmp/buildd/firefox-50.1.0+linuxmint1+serena/ipc/glue/MessageChannel.cpp, line 2056
+1483891161503	geckodriver	INFO	Listening on 127.0.0.1:50912
+1483891162503	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.CDwOPwHwpZwd
+1483891162504	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483891162507	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42573
+1483891163875	Marionette	INFO	Listening on port 42573
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+1483891566155	geckodriver	INFO	Listening on 127.0.0.1:46409
+1483891567157	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.6FgebLvucyaT
+1483891567158	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483891567162	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36179
+1483891568148	Marionette	INFO	Listening on port 36179
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+1483891601501	geckodriver	INFO	Listening on 127.0.0.1:51258
+1483891602502	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.RcEhzS2ZmRE9
+1483891602504	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483891602506	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34119
+1483891603517	Marionette	INFO	Listening on port 34119
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+1483891620724	geckodriver	INFO	Listening on 127.0.0.1:52247
+1483891621725	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.FU6UJcQoFhcZ
+1483891621727	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483891621729	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34767
+1483891622834	Marionette	INFO	Listening on port 34767
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+1483893121972	geckodriver	INFO	Listening on 127.0.0.1:33087
+1483893122973	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.tSCSQWJi5rjX
+1483893122974	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483893122978	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40429
+1483893124062	Marionette	INFO	Listening on port 40429
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+1483893527797	geckodriver	INFO	Listening on 127.0.0.1:52546
+1483893528798	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.7poHFKDQIc48
+1483893528799	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483893528802	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44480
+1483893530045	Marionette	INFO	Listening on port 44480
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+1483893573508	geckodriver	INFO	Listening on 127.0.0.1:44428
+1483893574509	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.8fZq18e6i3GL
+1483893574511	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483893574515	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45408
+1483893575821	Marionette	INFO	Listening on port 45408
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+1483893637180	geckodriver	INFO	Listening on 127.0.0.1:36771
+1483893638180	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.LDsdRSAcgdt0
+1483893638181	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483893638186	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40794
+1483893639572	Marionette	INFO	Listening on port 40794
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1483893874122	geckodriver	INFO	Listening on 127.0.0.1:60931
+1483893875123	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.qriKy8BzZsmc
+1483893875124	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1483893875130	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34608
+1483893876414	Marionette	INFO	Listening on port 34608
+JavaScript error: https://www.viidii.info/web/images//post.js?v=1, line 14: ReferenceError: faces is not defined
+JavaScript error: , line 0: uncaught exception: undefined
